@@ -1,3 +1,7 @@
+//Assignment: Expand your program to include classes Truck and Motorcycle. All three will have members year and color,
+//<< and >> operators, and function getDescription().
+//All three classes will be derived from an abstract class Vehicle. 
+
 #include <iostream>
 #include <string>
 
